@@ -1,6 +1,8 @@
 Pedometer
 =========
 
+dodane zmiany
+
 A pedometer implemented in Ruby. 
 
 The pedometer takes data from a mobile device, and outputs step count, distance, speed, and other relevant information typically found in native mobile applications. 
