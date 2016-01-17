@@ -1,7 +1,12 @@
 Pedometer
 =========
+jest jeszcze cos do dodania
+albo 
+nie ma
 
-A pedometer implemented in Ruby. 
+A pedeter implemented Ruby. 
+
+ciekawe
 
 The pedometer takes data from a mobile device, and outputs step count, distance, speed, and other relevant information typically found in native mobile applications. 
 
