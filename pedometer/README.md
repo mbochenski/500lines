@@ -4,9 +4,10 @@ jest jeszcze cos do dodania
 albo 
 nie ma
 
-A pedeter implemented Ruby. 
 
-ciekawe
+A pedometer implemented in Ruby.
+dodane zmiany
+
 
 The pedometer takes data from a mobile device, and outputs step count, distance, speed, and other relevant information typically found in native mobile applications. 
 
